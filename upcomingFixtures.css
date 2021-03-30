@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Train+One&display=swap');
+
+
+/* body {
+    background-color: blue;
+} */
+
+
+nav {
+    background-color: white;
+    border: solid red 4px;
+    padding: 5px;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+h1 {
+    color: black;
+    font-size: 50px;
+    text-align: center;
+    padding: 5px;
+    margin: 50px 10px;
+    border: solid blue 4px;
+    background-color: white; 
+}
+
+
+.mainText {
+    margin-left: 45px;
+    margin-right: 45px;
+}
+
+
+.pL {
+    background-color: white;
+    border-bottom: solid blue;
+    border-top: solid red;
+    font-size: 20px;
+    color: black;
+    display:flex;
+    justify-content: space-around;
+}
+#plImage {
+    width: 175px;
+    height: 100%;
+}
+
+
+.llS {
+    background-color: white;
+    border-bottom: solid red;
+    font-size: 20px;
+    color: black;
+    display:flex;
+    justify-content: space-around; 
+}
+/* #llsImage {
+    width: 175px;
+    height: 100%;
+} */
+
+
+.ligueUn {
+    background-color: white;
+    border-bottom: solid blue;
+    font-size: 20px;
+    color: black;
+    display:flex;
+    justify-content: space-around;
+}
+#l1Image {
+    width: 200px;
+    height: 100%;
+}
+    
+.bL {
+    background-color: white;
+    border-bottom: solid red;
+    font-size: 20px;
+    color: black;
+    display:flex;
+    justify-content: space-around;
+}
+#blImage {
+    width: 200px;
+    height: 100%;
+}
+
+.sA {
+    background-color: white;
+    font-size: 20px;
+    color: black;
+    display:flex;
+    justify-content: space-around;
+}
+#saImage {
+    width: 200px;
+    height: 100%;
+}
+
+
+.footer {
+    padding: 5px;
+    width: 100%;
+    text-align: center;
+    background: black;
+    border: solid darkslategrey 2px;
+    color: white;
+  }

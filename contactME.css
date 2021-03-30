@@ -1,0 +1,158 @@
+@import url('https://fonts.googleapis.com/css2?family=Train+One&display=swap');
+
+
+/* body {
+    background-color: rgb(204, 251, 236);
+} */
+
+
+nav {
+    background-color: white;
+    border: solid red 4px;
+    padding: 5px;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+h1 {
+    color: black;
+    font-size: 50px;
+    text-align: center;
+    padding: 5px;
+    margin: 50px 10px;
+    border: solid blue 4px;
+    background-color: white; 
+}
+
+
+.openingSentence {
+    font-size: 20px;
+    color: black;
+    background-color: white;
+    border-bottom: solid blue;
+    border-top: solid red;
+    text-align: center;
+    margin-left: 45px;
+    margin-right: 45px;
+
+}
+
+.mainText {
+    margin-left: 45px;
+    margin-right: 45px;
+}
+
+
+.onLine {
+    background-color: white;
+    border-bottom: solid red;
+}
+
+
+#emailInfo {
+    font-size: 20px;
+    color: black;
+    display:flex;
+    justify-content: space-between;
+}
+
+
+#laptopImage {
+    width: 100px;
+    height: 100%;
+}
+
+
+.socialMedia {
+    background-color: white;
+    border-bottom: solid blue;
+}
+
+
+#faceBook {
+    font-size: 20px;
+    color: black;
+    display:flex;
+    justify-content: space-between;
+}
+
+
+#facebookImage {
+    width: 100px;
+    height: 100%;
+}
+
+
+#twitTer {
+    font-size: 20px;
+    color: black;
+    display:flex;
+    justify-content: space-between;
+}
+
+
+#twitterImage {
+    width: 100px;
+    height: 100%;
+}
+
+
+#instaGram {
+    font-size: 20px;
+    color: black;
+    display:flex;
+    justify-content: space-between;
+}
+
+
+#instaImage {
+    width: 100px;
+    height: 100%;
+}
+
+
+.phoneInfo {
+    background-color: white;
+}
+
+
+#subImage {
+    display:flex;
+    justify-content: space-between;
+}
+
+
+#phoneImage {
+    width: 100px;
+    height: 100%;
+}
+
+
+#phoneText {
+    font-size: 20px;
+}
+
+
+#mobilePhone {
+    font-size: 20px;
+    color: black;
+    /* display:flex;
+    justify-content: space-around; */
+}
+
+
+#telePhone {
+    font-size: 20px;
+    color: black;
+}
+
+
+.footer {
+    padding: 5px;
+    width: 100%;
+    text-align: center;
+    background: black;
+    border: solid darkslategrey 2px;
+    color: white;
+  }

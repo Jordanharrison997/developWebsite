@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Train+One&display=swap');
+
+
+/* body {
+    background-color: rgb(204, 251, 236);
+} */
+
+
+nav {
+    background-color: white;
+    border: solid red 4px;
+    padding: 5px;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+h1 {
+    color: black;
+    font-size: 50px;
+    text-align: center;
+    padding: 5px;
+    margin: 50px 10px;
+    border: solid blue 4px;
+    background-color: white; 
+}
+
+
+.mainText {
+    margin-left: 45px;
+    margin-right: 45px;
+}
+
+
+.transferRumours {
+    background-color: white;
+    border-top: solid red;
+    border-bottom: solid blue;
+    color: black;
+    font-size: 20px;
+}
+
+#signing {
+    width: 400px;
+    height: 320px;
+}
+
+
+.haalandTransfer {
+    background-color: white;
+    border-bottom: solid red;
+    color: black;
+    font-size: 20px;
+}
+
+#haaland {
+    width:400px;
+    height: 320px;
+}
+
+
+.ronaldoTransfer {
+    background-color: white;
+    border-bottom: solid blue;
+    color: black;
+    font-size: 20px;
+}
+
+#cR7 {
+    width:400px;
+    height: 250px;
+}
+
+
+.unitedTransfers {
+    background-color: white;
+    color: black;
+    font-size: 20px;
+}
+
+#unitedLogo{
+    width: 300px;
+    height: 240px;
+}
+
+.footer {
+    padding: 5px;
+    width: 100%;
+    text-align: center;
+    background: black;
+    border: solid darkslategrey 2px;
+    color: white;
+  }

@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Train+One&display=swap');
+
+body {
+    background-image: url("images/bayernwinningthechampionsleague.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.header {
+    padding: 5px;
+    margin: 0px 0px 0px 0px;
+    text-align: center;
+    background: black;
+    border: solid darkslategrey 2px;
+    color: white;
+  }
+
+
+nav {
+    background-color: white;
+    border: solid red 4px;
+    padding: 5px;
+    display: flex;
+    justify-content: space-between;
+}
+
+h1 {
+    color: black;
+    font-size: 70px;
+    text-align: center;
+    padding: 5px;
+    margin: 150px 10px;
+    border: solid blue 4px;
+    background-color: white; 
+}
+
+.firstSection {
+display:flex;
+justify-content: center;
+}
+
+
+.aboutMe {
+    background-color: white;
+    border-top: solid red;
+    border-bottom: solid red;
+    border-left: solid red;
+    font-size: 16px;
+    color: black;
+}
+
+#homeImage {
+    border-right: solid red;
+    border-top: solid red;
+    border-bottom: solid red;
+    width: 175px; 
+    background-color: white;
+}
+
+img {
+    width: 100%
+}
+
+
+.footer {
+    padding: 5px;
+    text-align: center;
+    background: black;
+    border: solid darkslategrey 2px;
+    color: white;
+  }
